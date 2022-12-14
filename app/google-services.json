@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775238354256",
+    "project_id": "qweezz-leonidkiselev",
+    "storage_bucket": "qweezz-leonidkiselev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775238354256:android:ef20982526f591afa29855",
+        "android_client_info": {
+          "package_name": "com.example.qweezz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775238354256-e72bi460g0qajn5vi4trgbflvt6brehl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY16rWndAnCh0Uf5dpQ6NcAW5s5Iw-hyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775238354256-e72bi460g0qajn5vi4trgbflvt6brehl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
